@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ftcontent="http://ccf.ft.com/rss/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <title>FT Copyright clear feed</title>
         <link>https://api.ft.com/content/feed/fc6e182c-44e1-48d4-9bc8-77b5f5fa22e7</link>
@@ -15,8 +15,11 @@
             <guid isPermaLink="false">4db0e676-072a-4dd1-878c-fd9e51d1b06c</guid>
             <atom:link rel="related" href="https://api.ft.com/content/4db0e676-072a-4dd1-878c-fd9e51d1b06c"></atom:link>
             <pubDate>Mon, 22 Jun 2020 21:31:44 +0000</pubDate>
-            <content:encoded><![CDATA[Boris Johnson will on Tuesday reject misgivings from some leading scientists and press ahead with a plan to cut...]]></content:encoded>
+            <content:encoded>
+                <![CDATA[Boris Johnson will on Tuesday reject misgivings from some leading scientists and press ahead with a plan to cut...]]>
+            </content:encoded>
             <media:credit>George Parker, Jim Pickard, Laura Hughes and Sebastian Payne in London</media:credit>
+            <ftcontent:wordcount>234</ftcontent:wordcount>
             <dc:creator>George Parker</dc:creator>
             <dc:creator>Jim Pickard</dc:creator>
             <dc:creator>Sebastian Payne</dc:creator>
@@ -29,7 +32,10 @@
             <guid isPermaLink="false">8d02b979-fe87-4b5c-80a3-72ce575d7dc2</guid>
             <atom:link rel="related" href="https://api.ft.com/content/8d02b979-fe87-4b5c-80a3-72ce575d7dc2"></atom:link>
             <pubDate>Mon, 22 Jun 2020 21:31:18 +0000</pubDate>
-            <content:encoded><![CDATA[Apple will transition from using Intel chips to processors designed in-house, in a shift that chief executive Tim Cook...]]></content:encoded>
+            <content:encoded>
+                <![CDATA[Apple will transition from using Intel chips to processors designed in-house, in a shift that chief executive Tim Cook...]]>
+            </content:encoded>
+            <ftcontent:wordcount>511</ftcontent:wordcount>
             <media:credit>Patrick McGee in San Francisco</media:credit>
             <dc:creator>Patrick McGee</dc:creator>
         </item>
@@ -40,7 +46,10 @@
             <guid isPermaLink="false">10656eb0-e682-4da9-8e54-e44808ba1c7c</guid>
             <atom:link rel="related" href="https://api.ft.com/content/10656eb0-e682-4da9-8e54-e44808ba1c7c"></atom:link>
             <pubDate>Mon, 22 Jun 2020 20:41:58 +0000</pubDate>
-            <content:encoded><![CDATA[US stocks climbed and gold rose towards its highest level since 2012 as investors bet on more fiscal stimulus from...]]></content:encoded>
+            <content:encoded>
+                <![CDATA[US stocks climbed and gold rose towards its highest level since 2012 as investors bet on more fiscal stimulus from...]]>
+            </content:encoded>
+            <ftcontent:wordcount>75</ftcontent:wordcount>
             <media:credit>Harry Dempsey and Bryce Elder in London and Hudson Lockett in Hong Kong</media:credit>
             <dc:creator>Hudson Lockett</dc:creator>
             <dc:creator>Harry Dempsey</dc:creator>
