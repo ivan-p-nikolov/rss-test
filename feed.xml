@@ -39,7 +39,13 @@
             <atom:link rel="related" href="https://api.ft.com/content/8d02b979-fe87-4b5c-80a3-72ce575d7dc2"></atom:link>
             <pubDate>Mon, 22 Jun 2020 21:31:18 +0000</pubDate>
             <content:encoded>
-                <![CDATA[<body wordcount=511 >Apple will transition from using Intel chips to processors designed in-house, in a shift that chief executive Tim Cook...</body>]]>
+                <![CDATA[<content>
+                    <title>Johnson to overrule scientists and ease lockdown</title>
+                    <description>List of businesses allowed to reopen on July 4 extended as 2-metre distancing rule reduced</description>
+                    <byline>George Parker, Jim Pickard, Laura Hughes and Sebastian Payne in London</byline>
+                    <body>Boris Johnson will on Tuesday reject misgivings from some leading scientists and press ahead with a plan to cut...</body>
+                    <wordcount>234</wordcount>
+                </content>]]>
             </content:encoded>
             <media:credit>Patrick McGee in San Francisco</media:credit>
             <dc:creator>Patrick McGee</dc:creator>
@@ -52,7 +58,13 @@
             <atom:link rel="related" href="https://api.ft.com/content/10656eb0-e682-4da9-8e54-e44808ba1c7c"></atom:link>
             <pubDate>Mon, 22 Jun 2020 20:41:58 +0000</pubDate>
             <content:encoded>
-                <![CDATA[<body>US stocks climbed and gold rose towards its highest level since 2012 as investors bet on more fiscal stimulus from...</body><wordcount>75</wordcount>]]>
+                <![CDATA[<content>
+                    <title>Johnson to overrule scientists and ease lockdown</title>
+                    <description>List of businesses allowed to reopen on July 4 extended as 2-metre distancing rule reduced</description>
+                    <byline>George Parker, Jim Pickard, Laura Hughes and Sebastian Payne in London</byline>
+                    <body>Boris Johnson will on Tuesday reject misgivings from some leading scientists and press ahead with a plan to cut...</body>
+                    <wordcount>234</wordcount>
+                </content>]]>
             </content:encoded>
             <media:credit>Harry Dempsey and Bryce Elder in London and Hudson Lockett in Hong Kong</media:credit>
             <dc:creator>Hudson Lockett</dc:creator>
