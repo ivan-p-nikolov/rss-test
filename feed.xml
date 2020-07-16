@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>FT Copyright clear feed</title>
+        <link>https://api.ft.com/content/feed/fc6e182c-44e1-48d4-9bc8-77b5f5fa22e7</link>
+        <description>FT Copyright clear feed</description>
+        <atom:link rel="self" href="https://api.ft.com/content/feed/fc6e182c-44e1-48d4-9bc8-77b5f5fa22e7" type="application/rss+xml"></atom:link>
+        <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+        <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+        <copyright>The Financial Times Limited 2020. All rights reserved. Please do not copy and paste FT articles and redistribute by email or post to the web.</copyright>
+        <item>
+            <title>Johnson to overrule scientists and ease lockdown</title>
+            <link>https://www.ft.com/content/4db0e676-072a-4dd1-878c-fd9e51d1b06c</link>
+            <description>List of businesses allowed to reopen on July 4 extended as 2-metre distancing rule reduced</description>
+            <guid isPermaLink="false">4db0e676-072a-4dd1-878c-fd9e51d1b06c</guid>
+            <atom:link rel="related" href="https://api.ft.com/content/4db0e676-072a-4dd1-878c-fd9e51d1b06c"></atom:link>
+            <pubDate>Mon, 22 Jun 2020 21:31:44 +0000</pubDate>
+            <content:encoded><![CDATA[Boris Johnson will on Tuesday reject misgivings from some leading scientists and press ahead with a plan to cut...]]></content:encoded>
+            <media:credit>George Parker, Jim Pickard, Laura Hughes and Sebastian Payne in London</media:credit>
+            <dc:creator>George Parker</dc:creator>
+            <dc:creator>Jim Pickard</dc:creator>
+            <dc:creator>Sebastian Payne</dc:creator>
+            <dc:creator>Laura Hughes</dc:creator>
+        </item>
+        <item>
+            <title>Apple announces transition away from Intel chips</title>
+            <link>https://www.ft.com/content/8d02b979-fe87-4b5c-80a3-72ce575d7dc2</link>
+            <description>Tim Cook hails ‘historic day’ as company moves to use in-house designs </description>
+            <guid isPermaLink="false">8d02b979-fe87-4b5c-80a3-72ce575d7dc2</guid>
+            <atom:link rel="related" href="https://api.ft.com/content/8d02b979-fe87-4b5c-80a3-72ce575d7dc2"></atom:link>
+            <pubDate>Mon, 22 Jun 2020 21:31:18 +0000</pubDate>
+            <content:encoded><![CDATA[Apple will transition from using Intel chips to processors designed in-house, in a shift that chief executive Tim Cook...]]></content:encoded>
+            <media:credit>Patrick McGee in San Francisco</media:credit>
+            <dc:creator>Patrick McGee</dc:creator>
+        </item>
+        <item>
+            <title>Stimulus hopes lift Wall Street as US coronavirus cases rise</title>
+            <link>https://www.ft.com/content/10656eb0-e682-4da9-8e54-e44808ba1c7c</link>
+            <description>Investor sentiment tested by surge in infections in Asia, Europe and Americas</description>
+            <guid isPermaLink="false">10656eb0-e682-4da9-8e54-e44808ba1c7c</guid>
+            <atom:link rel="related" href="https://api.ft.com/content/10656eb0-e682-4da9-8e54-e44808ba1c7c"></atom:link>
+            <pubDate>Mon, 22 Jun 2020 20:41:58 +0000</pubDate>
+            <content:encoded><![CDATA[US stocks climbed and gold rose towards its highest level since 2012 as investors bet on more fiscal stimulus from...]]></content:encoded>
+            <media:credit>Harry Dempsey and Bryce Elder in London and Hudson Lockett in Hong Kong</media:credit>
+            <dc:creator>Hudson Lockett</dc:creator>
+            <dc:creator>Harry Dempsey</dc:creator>
+        </item>
+    </channel>
+</rss>
