@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>FT Copyright clear feed</title>
+    <link rel="self" type="application/rss+xml" href="https://api.ft.com/content/feed/fc6e182c-44e1-48d4-9bc8-77b5f5fa22e7" ></link>
+    <updated>2020-01-01T00:00:00Z</updated>
+    <rights>The Financial Times Limited 2020. All rights reserved. Please do not copy and paste FT articles and redistribute by email or post to the web.</rights>
+    <id>https://api.ft.com/content/feed/fc6e182c-44e1-48d4-9bc8-77b5f5fa22e7</id>
+    <entry>
+        <title>Johnson to overrule scientists and ease lockdown</title>
+        <link href="https://api.ft.com/content/4db0e676-072a-4dd1-878c-fd9e51d1b06c"></link>
+        <id>urn:uuid:4db0e676-072a-4dd1-878c-fd9e51d1b06c</id>
+        <updated>2020-06-22T21:31:44Z</updated>
+        <summary>List of businesses allowed to reopen on July 4 extended as 2-metre distancing rule reduced</summary>
+        <content type="application/xml">
+            <byline>George Parker, Jim Pickard, Laura Hughes and Sebastian Payne in London</byline>
+            <body>Boris Johnson will on Tuesday reject misgivings from some leading scientists and press ahead with a plan to cut...</body>
+            <wordcount>234</wordcount>
+        </content>
+        <author><name>George Parker</name></author>
+        <author><name>Jim Pickard</name></author>
+        <author><name>Sebastian Payne</name></author>
+        <author><name>Laura Hughes</name></author>
+    </entry>    
+</feed>
