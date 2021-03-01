@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:ftcontent="http://ft.com/ccf/1.0/content" xmlns:media="http://search.yahoo.com/mrss/">
+    <id>urn:uuid:fc6e182c-44e1-48d4-9bc8-77b5f5fa22e7</id>
+    <title>FT Content Feed</title>
+    <link href="https://api.ft.com/content/feed/fc6e182c-44e1-48d4-9bc8-77b5f5fa22e7" type="application/atom+xml" rel="self"></link>
+    <updated>2020-01-01T00:00:00Z</updated>
+    <rights>The Financial Times Limited 2020. All rights reserved. Please do not copy and paste FT articles and redistribute by email or post to the web.</rights>
+    <entry>
+        <id>urn:uuid:ca10fed1-94d4-4c3e-800e-c289777c2901</id>
+        <title>Markets Now - Wednesday 2nd September</title>
+        <link href="http://ftalphaville.ft.com/2020/09/02/1599033086000/Markets-Now---Wednesday-2nd-September/"></link>
+        <summary>Last updated 12:00pm BST. Featuring Barratt Developments, Atlantia, Codemasters, Computacenter, Ferguson, Siemens Gamesa, Deutsche Telekom and Kingspan.</summary>
+        <updated>2020-09-02T11:20:53.707Z</updated>
+        <content>Hey, want to invest in a fraud? </content>
+        <ftcontent:byline>Bryce Elder</ftcontent:byline>
+        <ftcontent:wordcount>7</ftcontent:wordcount>
+        <media:thumbnail url="https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttp%253A%252F%252Fprod-upp-image-read.ft.com%252F7b0398e2-6355-490c-beba-4028b7fde181%3Fsource%3Dsearch%26fit%3Dscale-down%26width%3D167"></media:thumbnail>
+        <author>
+            <name>Bryce Elder</name>
+        </author>
+    </entry>
+</feed>
